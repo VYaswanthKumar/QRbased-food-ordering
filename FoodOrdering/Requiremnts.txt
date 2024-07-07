@@ -1,0 +1,18 @@
+mysql workbench or older version
+pip install pypng
+pip install pyqrcode
+pip install django
+
+
+Modules:
+
+hotel :
+  hotel registration
+  hotel login form
+  
+ 
+customer
+  Customer registraion
+  customer login
+  list of hotels
+  
